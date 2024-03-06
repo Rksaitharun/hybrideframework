@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows are::8]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002984       Customer-00000002984]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002985       Customer-00000002985]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002986       Customer-00000002986]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002987       Customer-00000002987]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002988       Customer-00000002988]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002989       Customer-00000002989]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002990       Customer-00000002990]]>
+    </line>
+    <line>
+      <![CDATA[Customer Number Matching::Customer-00000002991       Customer-00000002991]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-28T15:05:19 IST" name="Default suite" finished-at="2024-02-28T15:07:30 IST" duration-ms="130900">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T15:05:19 IST" name="Default test" finished-at="2024-02-28T15:07:30 IST" duration-ms="130900">
+      <class name="driverfactory.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverfactory.AppTest@2034b64c]" started-at="2024-02-28T15:05:19 IST" name="setUp" finished-at="2024-02-28T15:05:28 IST" duration-ms="9367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverfactory.AppTest@2034b64c]" started-at="2024-02-28T15:05:28 IST" name="startTest" finished-at="2024-02-28T15:07:29 IST" duration-ms="120347" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::8]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002984       Customer-00000002984]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002985       Customer-00000002985]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002986       Customer-00000002986]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002987       Customer-00000002987]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002988       Customer-00000002988]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002989       Customer-00000002989]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002990       Customer-00000002990]]>
+            </line>
+            <line>
+              <![CDATA[Customer Number Matching::Customer-00000002991       Customer-00000002991]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverfactory.AppTest@2034b64c]" started-at="2024-02-28T15:07:29 IST" name="tearDown" finished-at="2024-02-28T15:07:30 IST" duration-ms="1062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverfactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
